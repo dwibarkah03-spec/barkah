@@ -1,10 +1,10 @@
 // Daftar produk dengan gambar
 const products = [
-    { id: 1, name: 'beng beng', price: 2000, img: 'img/beng beng.jpg' },
-    { id: 2, name: 'boncabe', price: 1000, img: 'img/boncabe.jpg' },
-    { id: 3, name: 'chocopie', price: 2000, img: 'img/chocopie.jpg' },
-    { id: 4, name: 'maxicorn', price: 2000, img: 'img/maxicorn.jpg' },
-    { id: 5, name: 'qtella', price: 2000, img: 'img/qtella.jpg' },
+    { id: 1, name: 'beng beng', price: 2000, img: 'beng beng.jpg' },
+    { id: 2, name: 'boncabe', price: 1000, img: 'boncabe.jpg' },
+    { id: 3, name: 'chocopie', price: 2000, img: 'chocopie.jpg' },
+    { id: 4, name: 'maxicorn', price: 2000, img: 'maxicorn.jpg' },
+    { id: 5, name: 'qtella', price: 2000, img: 'qtella.jpg' },
 ];
 
 // Keranjang belanja
